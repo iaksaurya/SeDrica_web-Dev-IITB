@@ -1,3 +1,3 @@
 # SeDrica_web-Dev-IITB
 
-Innovation Cell IIT Bombay
+Innovation Cell IIT Bombay                                                            Auther-Abhimanyu Kumar
